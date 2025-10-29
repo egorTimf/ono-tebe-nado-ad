@@ -325,7 +325,7 @@ span{
     margin-top: 170px;
     padding: 0 50px 82px 50px;
     display: grid;
-    grid-template-columns: repeat(3, 1fr);
+    grid-template-columns: repeat(3,  1fr);
     align-items: start;
 }
 .footer__menu{
