@@ -27,6 +27,7 @@ span {
 
 .header__links-list {
   display: flex;
+  margin-top: 133px;
 }
 
 .header__logo-image {
@@ -52,10 +53,6 @@ span {
 
 .last__item {
   margin-right: 0;
-}
-
-.header__links-list {
-  margin-top: 133px;
 }
 
 .header__link_active {
@@ -97,7 +94,7 @@ span {
 }
 
 .cover__title h1 {
-    font-size: 100px;
+  font-size: 100px;
   text-transform: uppercase;
   font-weight: 700;
   line-height: 115%;
@@ -156,7 +153,7 @@ span {
 }
 
 .cover__description button {
-    font: inherit;
+  font: inherit;
   color: white;
   justify-self: flex-end;
   text-transform: uppercase;
@@ -174,12 +171,11 @@ span {
 li {
   margin: 0;
   padding: 0;
-
   list-style: none;
 }
 
 .lots__heading {
-    font-size: 40px;
+  font-size: 40px;
   font-weight: 700;
   text-transform: uppercase;
   margin-left: 40px;
